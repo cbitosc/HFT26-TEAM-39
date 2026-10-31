@@ -1,0 +1,6 @@
+{
+  "name": "TRACE AI - Road Accident Investigation Backend",
+  "description": "AI-powered road accident investigation and reconstruction backend prototype with deterministic telemetry processing, timeline reconstruction, contradiction analysis, and Featherless AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
